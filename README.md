@@ -3,7 +3,7 @@
 
 - This Excel dashboard will be a dynamic tool, allowing Regional Sales Managers to track sales performance, pinpoint areas of strength and weakness, and ultimately drive growth for Maven Toys.
 
-### [Live Dashboard](https://1drv.ms/x/c/858c3e03eb3139d1/ETlYExDNiydFh-KSDk0MwTYBLqHEfXONAc8eg8Q_Y7_qXQ?e=vYEgOL)
+### [Live Dashboard](https://1drv.ms/x/c/858c3e03eb3139d1/ETlYExDNiydFh-KSDk0MwTYBLqHEfXONAc8eg8Q_Y7_qXQ?e=vYEgOL) (Use Incognito to see this project)
 
 
 # Maven Toys Regional Sales Dashboard Project
